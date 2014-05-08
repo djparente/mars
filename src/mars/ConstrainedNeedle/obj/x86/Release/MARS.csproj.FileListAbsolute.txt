@@ -1,0 +1,4 @@
+C:\cygwin-root\home\dparente\mars-release\src\mars\ConstrainedNeedle\bin\Release\MARS.exe
+C:\cygwin-root\home\dparente\mars-release\src\mars\ConstrainedNeedle\bin\Release\DJPCommonBioinfo.dll
+C:\cygwin-root\home\dparente\mars-release\src\mars\ConstrainedNeedle\obj\x86\Release\ResolveAssemblyReference.cache
+C:\cygwin-root\home\dparente\mars-release\src\mars\ConstrainedNeedle\obj\x86\Release\MARS.exe

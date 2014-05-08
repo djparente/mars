@@ -1,0 +1,14 @@
+C:\Users\dparente\Documents\SharpDevelop Projects\CompareToReference\CompareToReference\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dparente\Documents\SharpDevelop Projects\CompareToReference\CompareToReference\bin\Debug\CompareToReference.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\CompareToReference\CompareToReference\bin\Debug\CompareToReference.pdb
+C:\Users\dparente\Documents\SharpDevelop Projects\CompareToReference\CompareToReference\bin\Debug\DJPCommonBioinfo.dll
+C:\Users\dparente\Documents\SharpDevelop Projects\CompareToReference\CompareToReference\bin\Debug\DJPCommonBioinfo.pdb
+C:\Users\dparente\Documents\SharpDevelop Projects\CompareToReference\CompareToReference\obj\x86\Debug\CompareToReference.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\CompareToReference\CompareToReference\obj\x86\Debug\CompareToReference.pdb
+C:\cygwin-root\home\dparente\mars-release\src\msa-comp\CompareToReference\bin\Debug\CompareToReference.exe
+C:\cygwin-root\home\dparente\mars-release\src\msa-comp\CompareToReference\bin\Debug\CompareToReference.pdb
+C:\cygwin-root\home\dparente\mars-release\src\msa-comp\CompareToReference\bin\Debug\DJPCommonBioinfo.dll
+C:\cygwin-root\home\dparente\mars-release\src\msa-comp\CompareToReference\bin\Debug\DJPCommonBioinfo.pdb
+C:\cygwin-root\home\dparente\mars-release\src\msa-comp\CompareToReference\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cygwin-root\home\dparente\mars-release\src\msa-comp\CompareToReference\obj\x86\Debug\CompareToReference.exe
+C:\cygwin-root\home\dparente\mars-release\src\msa-comp\CompareToReference\obj\x86\Debug\CompareToReference.pdb

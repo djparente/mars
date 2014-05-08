@@ -1,0 +1,6 @@
+C:\Users\dparente\Documents\SharpDevelop Projects\CompareAlignments\DJPCommonBioinfo\bin\Release\DJPCommonBioinfo.dll
+C:\Users\dparente\Documents\SharpDevelop Projects\CompareAlignments\DJPCommonBioinfo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dparente\Documents\SharpDevelop Projects\CompareAlignments\DJPCommonBioinfo\obj\x86\Release\DJPCommonBioinfo.dll
+C:\cygwin-root\home\dparente\mars-release\src\DJPCommonBioinfo\bin\Release\DJPCommonBioinfo.dll
+C:\cygwin-root\home\dparente\mars-release\src\DJPCommonBioinfo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\cygwin-root\home\dparente\mars-release\src\DJPCommonBioinfo\obj\x86\Release\DJPCommonBioinfo.dll

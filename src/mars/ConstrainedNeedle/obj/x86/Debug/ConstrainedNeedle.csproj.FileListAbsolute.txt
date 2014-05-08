@@ -1,0 +1,7 @@
+C:\Users\dparente\Documents\SharpDevelop Projects\ConstrainedNeedle\ConstrainedNeedle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dparente\Documents\SharpDevelop Projects\ConstrainedNeedle\ConstrainedNeedle\bin\Debug\DJPCommonBioinfo.dll
+C:\Users\dparente\Documents\SharpDevelop Projects\ConstrainedNeedle\ConstrainedNeedle\bin\Debug\DJPCommonBioinfo.pdb
+C:\Users\dparente\Documents\SharpDevelop Projects\ConstrainedNeedle\ConstrainedNeedle\bin\Debug\MARS.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\ConstrainedNeedle\ConstrainedNeedle\bin\Debug\MARS.pdb
+C:\Users\dparente\Documents\SharpDevelop Projects\ConstrainedNeedle\ConstrainedNeedle\obj\x86\Debug\MARS.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\ConstrainedNeedle\ConstrainedNeedle\obj\x86\Debug\MARS.pdb

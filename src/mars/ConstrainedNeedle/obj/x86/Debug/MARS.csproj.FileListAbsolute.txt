@@ -1,0 +1,14 @@
+C:\Users\dparente\Documents\SharpDevelop Projects\ConstrainedNeedle\ConstrainedNeedle\bin\Debug\MARS.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\ConstrainedNeedle\ConstrainedNeedle\bin\Debug\MARS.pdb
+C:\Users\dparente\Documents\SharpDevelop Projects\ConstrainedNeedle\ConstrainedNeedle\bin\Debug\DJPCommonBioinfo.dll
+C:\Users\dparente\Documents\SharpDevelop Projects\ConstrainedNeedle\ConstrainedNeedle\bin\Debug\DJPCommonBioinfo.pdb
+C:\Users\dparente\Documents\SharpDevelop Projects\ConstrainedNeedle\ConstrainedNeedle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dparente\Documents\SharpDevelop Projects\ConstrainedNeedle\ConstrainedNeedle\obj\x86\Debug\MARS.exe
+C:\Users\dparente\Documents\SharpDevelop Projects\ConstrainedNeedle\ConstrainedNeedle\obj\x86\Debug\MARS.pdb
+C:\cygwin-root\home\dparente\mars-release\src\mars\ConstrainedNeedle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cygwin-root\home\dparente\mars-release\src\mars\ConstrainedNeedle\obj\x86\Debug\MARS.exe
+C:\cygwin-root\home\dparente\mars-release\src\mars\ConstrainedNeedle\obj\x86\Debug\MARS.pdb
+C:\cygwin-root\home\dparente\mars-release\src\mars\ConstrainedNeedle\bin\Debug\MARS.exe
+C:\cygwin-root\home\dparente\mars-release\src\mars\ConstrainedNeedle\bin\Debug\MARS.pdb
+C:\cygwin-root\home\dparente\mars-release\src\mars\ConstrainedNeedle\bin\Debug\DJPCommonBioinfo.dll
+C:\cygwin-root\home\dparente\mars-release\src\mars\ConstrainedNeedle\bin\Debug\DJPCommonBioinfo.pdb

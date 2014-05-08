@@ -1,0 +1,4 @@
+C:\cygwin-root\home\dparente\mars-release\src\msa-comp\CompareToReference\bin\Release\CompareToReference.exe
+C:\cygwin-root\home\dparente\mars-release\src\msa-comp\CompareToReference\bin\Release\DJPCommonBioinfo.dll
+C:\cygwin-root\home\dparente\mars-release\src\msa-comp\CompareToReference\obj\x86\Release\ResolveAssemblyReference.cache
+C:\cygwin-root\home\dparente\mars-release\src\msa-comp\CompareToReference\obj\x86\Release\CompareToReference.exe
