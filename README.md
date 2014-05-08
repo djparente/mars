@@ -1,7 +1,7 @@
 # MARS
 ### Maintainer of Alignments using Reference Sequences
 
-MARS is a maintainance tool for protein multiple sequence alignments (MSAs) that allows
+MARS is a maintenance tool for protein multiple sequence alignments (MSAs) that allows
 for the incorporating of new sequences into existing (hand-optimized) alignments.
 
 Please see the [main documentation file](doc/MARS_readme.pdf) for information on
