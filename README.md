@@ -1,7 +1,7 @@
-# MARS
-### Maintainer of Alignments using Reference Sequences
+# MARS - Prot
+### Maintainer of Alignments using Reference Sequences for Proteins
 
-MARS is a maintenance tool for protein multiple sequence alignments (MSAs) that allows
+MARS-Prot is a maintenance tool for protein multiple sequence alignments (MSAs) that allows
 for the incorporating of new sequences into existing (hand-optimized) alignments.
 
 Please see the [main documentation file](doc/MARS_readme.pdf) for information on
@@ -9,7 +9,7 @@ usage, dependencies, file formats and troubleshooting.
 
 Directory structure:
 - src - C# source code
- - mars - MARS
+ - mars - MARS-Prot
  - msa-comp - Tool to compare an alignment against a "gold standard"
  - DJPCommonBioinfo - Bioinformatics library that mars and msa-comp depend upon
 - bin - Windows binaries
